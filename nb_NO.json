@@ -717,6 +717,14 @@
   "settings.language.load.info":"Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
   "settings.language.load.input":"Language file url:",
   "settings.language.load.button":"LOAD",
+  "settings.showadvanced": "Vis avanserte innstillinger",
+  "settings.hideadvanced": "Skjul avanserte innstillinger",
+  "settings.scale.auto": "Auto",
+  "settings.scale.small": "Liten",
+  "settings.scale.medium": "Middels",
+  "settings.scale.large": "Stor",
+  "settings.scale.verylarge": "Veldig Stor",
+
   "throne.title": "THRONE ROOM",
   "throne.reset": "reset scores",
   "throne.playerinfo": "Player Info",
@@ -973,13 +981,5 @@
   "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
   "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
   "friendlist.friendshipstate.receivedrequest": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games.",
-  "friendlist.friendshipstate.rejected": "Friend request rejected.",
-
-  "settings.showadvanced": "Vis avanserte innstillinger",
-  "settings.hideadvanced": "Skjul avanserte innstillinger",
-  "settings.scale.auto": "Auto",
-  "settings.scale.small": "Liten",
-  "settings.scale.medium": "Middels",
-  "settings.scale.large": "Stor",
-  "settings.scale.verylarge": "Veldig Stor"
+  "friendlist.friendshipstate.rejected": "Friend request rejected."
 }
