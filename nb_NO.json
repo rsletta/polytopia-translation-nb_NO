@@ -711,7 +711,7 @@
   "settings.saveexit": "AVSLUTT TIL MENY",
   "settings.on": "PÅ",
   "settings.off": "AV",
-  "settings.language": "SprU+00C5k",
+  "settings.language": "Spr\u00e5k",
   "settings.restartlanguage": "Vennligst start Polytopia på nytt, for å bytte sråk helt",
   "settings.language.load.title":"Tilpasset Språk (BETA)",
   "settings.language.load.info":"Last en Polytopia språkfil fra en server med HTTPS. Dette er en eksperimentell egenskap, og ikke for sarte sjeler.",
